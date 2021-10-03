@@ -1,0 +1,36 @@
+# By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
+
+# What is the 10 001st prime number?
+contador = 0
+valor=0
+count2 = 0
+k = 2
+
+def es_primo(k):
+  count = 0
+  for v in range(1,k+1):
+      y = k%v
+      if y == 0:
+          count += 1
+         
+      elif count >= 3:
+          break  
+  
+  return count,k
+
+while k != 105000:
+    contador,valor = es_primo(k)
+    if contador <= 2:
+        count2 +=1
+        f = k
+    if count2 == 10001:
+      k = 105000
+      break
+      
+    # print(count2)
+    k +=1
+
+
+
+print(f)
+print(count2)
