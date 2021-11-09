@@ -1,0 +1,7 @@
+H:\ejercicio de programacion\ejercicios\ejercicio 9\ejercicio_9\ejercicio_9\bin\Debug\ejercicio_9.exe.config
+H:\ejercicio de programacion\ejercicios\ejercicio 9\ejercicio_9\ejercicio_9\bin\Debug\ejercicio_9.exe
+H:\ejercicio de programacion\ejercicios\ejercicio 9\ejercicio_9\ejercicio_9\bin\Debug\ejercicio_9.pdb
+H:\ejercicio de programacion\ejercicios\ejercicio 9\ejercicio_9\ejercicio_9\obj\Debug\ejercicio_9.csprojAssemblyReference.cache
+H:\ejercicio de programacion\ejercicios\ejercicio 9\ejercicio_9\ejercicio_9\obj\Debug\ejercicio_9.csproj.CoreCompileInputs.cache
+H:\ejercicio de programacion\ejercicios\ejercicio 9\ejercicio_9\ejercicio_9\obj\Debug\ejercicio_9.exe
+H:\ejercicio de programacion\ejercicios\ejercicio 9\ejercicio_9\ejercicio_9\obj\Debug\ejercicio_9.pdb
